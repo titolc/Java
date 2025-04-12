@@ -38,5 +38,5 @@ CREATE TABLE usuarios (
     email VARCHAR(100) UNIQUE,
     senha VARCHAR(100)
 );
-
+```
 👨‍💻 Desenvolvido por Christopher Lindoso
